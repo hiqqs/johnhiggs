@@ -2,7 +2,7 @@
 #TestAutomationElite
 
 * 3 startups
-* 12+ years of professional work experience
+* 12+ years experience
 * Can design and implement every layer of test automation from scratch (web app or mobile, unit, api, e2e, load/performance...)
 * Passion for node.js, python, AI
 
