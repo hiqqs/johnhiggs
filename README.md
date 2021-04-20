@@ -1,4 +1,4 @@
-![tae](https://media-exp1.licdn.com/dms/image/C4D16AQESNtNWwj129A/profile-displaybackgroundimage-shrink_350_1400/0?e=1605744000&v=beta&t=pa-VLE50tVCKVoLucZr7NEfrHxamevxdcPO6gO-W0AQ)
+![tae](https://media-exp1.licdn.com/dms/image/C4D16AQESNtNWwj129A/profile-displaybackgroundimage-shrink_350_1400/0/1598555091998?e=1624492800&v=beta&t=dYYbLuG41yxQr79VnibB201cvfQDqnQBUr4n2FNob2E)
 #TestAutomationElite (Join us on Linked in [https://lnkd.in/g4iQYB5])
 
 * 4 startups
